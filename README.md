@@ -1,8 +1,8 @@
 
 ## 🤓 OLÁ BEM VINDO AO MEU PERFIL... ME CHAMO RODRIGO LOPES 👋
 
-- 🔭 Engatinhando como Analista de Sistemas FULLSTACK
-- 🌱 Atualmente estou aprendendo Vue.js e aprimorando o Java
+- 🔭 Trilhando meu caminho como Analista de Sistemas
+
 
  <div>
   <a href="https://github.com/rodrilop">
